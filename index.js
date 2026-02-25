@@ -27,7 +27,7 @@ const { commands, replyHandlers } = require('./command');
 
 // ===== OWNER SYSTEM (OLD BASE + EXTENDED) =====
 const ownerNumber = ['94761638379'];
-const MASTER_SUDO = ['94781332957'];
+const MASTER_SUDO = ['94761638379'];
 
 const app = express();
 const port = process.env.PORT || 8000;
