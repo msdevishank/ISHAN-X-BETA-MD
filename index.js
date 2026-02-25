@@ -98,7 +98,7 @@ async function connectToWA() {
         connectToWA();
       }
     } else if (connection === 'open') {
-      console.log('[📲] 𝗜𝗦𝗛𝗔𝗡 𝗦𝗣𝗔𝗥𝗞-𝕏 connected to WhatsApp ✅');
+      console.log('[📲] 𝗜𝗦𝗛𝗔𝗡-𝕏 connected to WhatsApp ✅');
 
       const up = `┎━━━━━━━━━━━━━━━━❖
 ┃❖ 🤖 𝗔𝗖𝗧𝗜𝗩𝗘 𝗡𝗢𝗪 🚀
